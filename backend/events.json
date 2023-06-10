@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"22222222222","image":"https://media.istockphoto.com/id/995296278/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%B2%D0%B5%D0%B3%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D1%96-%D1%81%D0%BE%D1%94%D0%B2%D1%96-%D1%81%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%B4%D0%BA%D0%B8-%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B0-%D0%B7%D0%B0%D0%BA%D1%83%D1%81%D0%BA%D0%B0.jpg?s=612x612&w=is&k=20&c=G9qw75oC6XvdxQi2bVGID_9pplFCXlin9EcUihB6CeY=","date":"2023-06-02","description":"222222222222222","id":"59c7a9b1-0b17-4f5c-9243-8b2d2b4eccc5"},{"title":"A new event","image":"https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg","date":"2022-10-01","description":"Some awesome event!","id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"}],"users":[{"email":"display@dis.play","password":"$2a$12$rbu0iLx7BJEAL3Qa4T0.9eGY6e1Vvdom1.r/F3MUvAunKPRasYL5y","id":"0426adb8-94c9-4fa0-8411-f3effd857f0d"}]}
